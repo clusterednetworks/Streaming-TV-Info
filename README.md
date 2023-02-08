@@ -8,6 +8,10 @@ Ron's Streaming TV Info
 
 ## US TV Channels
 - Pluto TV - https://pluto.tv/
+- PLEX - https://app.plex.tv/
+- PeacockTV - https://www.peacocktv.com/
+- Crackle - https://www.crackle.com/
+- TubiTV - https://tubitv.com/
 
 ## UK TV Channels
 - BBC iPlayer - https://www.bbc.co.uk/iplayer
