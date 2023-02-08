@@ -9,6 +9,7 @@ Ron's Streaming TV Info
 - NBC Nightly News - https://www.nbcnews.com/nightly-news
 - CBS News - https://www.cbsnews.com/live/#x
 - ABC News - https://abcnews.go.com/Live/
+- RiverTV (Paid) - https://rivertv.ca/
 
 ## Stream from US TV Channels
 - Pluto TV - https://pluto.tv/
