@@ -17,7 +17,19 @@ Ron's Streaming TV Info
 - PeacockTV - https://www.peacocktv.com/
 - Crackle - https://www.crackle.com/
 - TubiTV - https://tubitv.com/
+- Newsy - https://scrippsnews.com/where-to-watch/
+- Haystack - https://www.haystack.tv/home
+- Sky News - https://news.sky.com/
+- Bloomberg - https://www.bloomberg.com/
+- NewsON - https://newson.us/featured
 
 ## Stream from UK TV Channels
 - BBC iPlayer - https://www.bbc.co.uk/iplayer
 
+## Sailing TV Channels
+- World Sailing TV - https://www.youtube.com/channel/UCihBCFVwHKZT_jHc3Y3j8YA
+- The Sailing Channel - https://www.thesailingchannel.tv/
+- NBC Saiing News - https://www.nbcsports.com/sailing
+- Sailing News - https://sailing-news.com/
+- Boats ON TV - https://www.boatson.tv/
+- SeaWolves TV - http://seawolvestv.com/
