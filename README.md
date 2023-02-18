@@ -36,4 +36,8 @@ Ron's Streaming TV Info
 - Boats ON TV - https://www.boatson.tv/
 - SeaWolves TV - http://seawolvestv.com/
 
-Updated : date: "`r format(Sys.time(), '%d %B, %Y')`"
+---
+title: "Super Important Report"
+author: "Thomas Neitmann"
+date: `r Sys.Date()`
+---
