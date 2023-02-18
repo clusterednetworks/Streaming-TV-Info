@@ -1,6 +1,7 @@
 # Streaming-TV-Info
 Ron's Streaming TV Info
 #
+- Best Browser for Streaming - Brave https://brave.com/
 ## Stream from Canada TV Channels
 - Amazon Prime - https://www.primevideo.com/
 - Global TV - https://watch.globaltv.com/
