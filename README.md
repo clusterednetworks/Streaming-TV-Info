@@ -36,6 +36,3 @@ Ron's Streaming TV Info
 - Boats ON TV - https://www.boatson.tv/
 - SeaWolves TV - http://seawolvestv.com/
 
-<script type="module">
-import date from 'date-and-time';
-</script>
