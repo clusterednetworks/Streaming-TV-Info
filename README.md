@@ -6,6 +6,7 @@ Ron's Streaming TV Info
 ## Stream from Canada TV Channels
 - Amazon Prime - https://www.primevideo.com/
 - Global TV - https://watch.globaltv.com/
+- CityNews - https://vancouver.citynews.ca/video
 - Pluto TV - https://pluto.tv/
 - CHEK News - https://www.cheknews.ca/live-news-british-columbia/
 - NBC Nightly News - https://www.nbcnews.com/nightly-news
