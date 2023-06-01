@@ -15,6 +15,7 @@ Ron's Streaming TV Info
 - ABC News - https://abcnews.go.com/Live/
 - RiverTV (Paid) - https://rivertv.ca/
 - Hayu - https://www.hayu.com/
+- CBS - https://www.cbs.com/
 
 ## Stream from US TV Channels
 - Pluto TV - https://pluto.tv/
