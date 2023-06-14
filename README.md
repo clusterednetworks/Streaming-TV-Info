@@ -30,6 +30,7 @@ Ron's Streaming TV Info
 - Sky News - https://news.sky.com/
 - Bloomberg - https://www.bloomberg.com/
 - NewsON - https://newson.us/featured
+- philo.com - https://tv247us.com/watch  $25/mo.
 
 ## Stream from UK TV Channels
 - BBC iPlayer - https://www.bbc.co.uk/iplayer
