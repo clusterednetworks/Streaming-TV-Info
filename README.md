@@ -34,6 +34,7 @@ Ron's Streaming TV Info
 - NewsON - https://newson.us/featured
 - philo.com - https://tv247us.com/watch  $25/mo.
 - NBC News - https://www.nbcnews.com/video
+- Max - https://www.max.com/
 
 ## Stream from UK TV Channels
 - BBC iPlayer - https://www.bbc.co.uk/iplayer
