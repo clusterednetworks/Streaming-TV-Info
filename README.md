@@ -25,6 +25,7 @@ Ron's Streaming TV Info
 - PeacockTV - https://www.peacocktv.com/
 - Crackle - https://www.crackle.com/
 - TubiTV - https://tubitv.com/
+- Paramount Plus - https://www.paramountplus.com/
 - Justwatch.com - https://www.justwatch.com/
 - Newsy - https://scrippsnews.com/where-to-watch/
 - Haystack - https://www.haystack.tv/home
