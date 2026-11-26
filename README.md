@@ -6,10 +6,11 @@ Ron's Streaming TV Info
 ## Stream from Canada TV Channels
 - Amazon Prime - https://www.primevideo.com/
 - Global TV - https://watch.globaltv.com/
-- CityNews - https://vancouver.citynews.ca/video
+- CityNews Ottawa- https://ottawa.citynews.ca/
+- CityNews Toronto - https://toronto.citynews.ca/video
 - CityTV - https://www.citytv.com/#all-shows
 - Pluto TV - https://pluto.tv/
-- CHEK News - https://www.cheknews.ca/live-news-british-columbia/
+- CHEK News - https://www.cheknews.ca/
 - NBC Nightly News - https://www.nbcnews.com/nightly-news
 - CBS News - https://www.cbsnews.com/live/#x
 - ABC News - https://abcnews.go.com/Live/
@@ -47,3 +48,11 @@ Ron's Streaming TV Info
 - Boats ON TV - https://www.boatson.tv/
 - SeaWolves TV - http://seawolvestv.com/
 
+## How to use the Bittorrents
+- Use a secure private OS such as Linux or FreeBSD
+- enable VPN (preferably to USA)
+- Open Brave Browser in Privacy mode
+- Search for your torrent on http://limetorrents.net or https://uindex.org
+- Right click on the "Download Torrent" or "Magnet Torrent" and copy link address
+- Open your torrent downloader such as "Transmission"
+- Paste the link and wait for the download.
