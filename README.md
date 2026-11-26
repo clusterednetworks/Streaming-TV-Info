@@ -56,3 +56,9 @@ Ron's Streaming TV Info
 - Right click on the "Download Torrent" or "Magnet Torrent" and copy link address
 - Open your torrent downloader such as "Transmission"
 - Paste the link and wait for the download.
+
+## How to Stream from the Torrents
+- Use a secure private OS such as Linux or FreeBSD
+- enable VPN (preferably to USA)
+- Open Brave Browser in Privacy mode
+- Stream from https://flixnetwork.is
