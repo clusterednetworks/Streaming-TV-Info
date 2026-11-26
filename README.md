@@ -2,7 +2,7 @@
 Ron's Streaming TV Info
 #
 - Best Browser for Streaming - Brave https://brave.com/
-- VPN is required to stream from US or UK I recommend PIA - Private Internet Access
+- VPN is required to stream from US or UK I recommend PIA - https://www.privateinternetaccess.com/pages/buy-vpn/clust
 ## Stream from Canada TV Channels
 - Amazon Prime - https://www.primevideo.com/
 - Global TV - https://watch.globaltv.com/
